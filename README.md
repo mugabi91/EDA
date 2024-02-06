@@ -33,4 +33,3 @@ Feel free to clone this repository to your local machine and run the notebooks y
 
 Contributions to this repository are welcome! If you have conducted an interesting exploratory data analysis and would like to share it with the community, or if you find an issue with an existing analysis, feel free to open a pull request.
 
-Before contributing, please review the [contribution guidelines](CONTRIBUTING.md
